@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSPM-WFP01-03-CTDPFK000-telemetered-ctdpf_ckl_wfp_instrument
 data_stream: CE09OSPM-WFP01-03-CTDPFK000-telemetered-ctdpf_ckl_wfp_instrument
 end_date: '2021-10-05T10:02:38.000Z'
-last_updated: '2021-10-06T01:13:15.280542Z'
+last_updated: '2021-10-06T01:45:32.224857'
 start_date: '2014-04-19T03:00:12.000Z'
-status: pending
+status: success
