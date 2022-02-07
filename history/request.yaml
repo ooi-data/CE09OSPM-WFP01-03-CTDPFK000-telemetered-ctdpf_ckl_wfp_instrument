@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSPM-WFP01-03-CTDPFK000-telemetered-ctdpf_ckl_wfp_instrument
-last_request: '2022-01-21T17:41:56.765582Z'
+last_request: '2022-02-07T17:09:34.493252Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSPM-WFP01-03-CTDPFK000-telemetered-ctdpf_ckl_wfp_instrument/main/history/response.json
-status: success
+status: pending
